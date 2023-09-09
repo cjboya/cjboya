@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Carlos J. Boyatjian</h1>
 <h3 align="center">A passionate Python developer from Argentina</h3>
 
-- 🔭 I’m currently working on **education and development**
+- 🔭 I’m currently working on **development & education**
 
-<h3 align="left">Connect with me:</h3>
+<h4>
+"👋 Welcome to my GitHub haven! 🚀 Here, you'll find the fruits of my passion for programming and software creation. 💻✨ Explore my projects and uncover the world of code I've woven with love and dedication. 🧶💙 Feel free to collaborate, learn, and share knowledge because the magic of the community is what makes GitHub special! 🌟 Together, we can build a bright technological future. ✨🤝 Thanks for visiting and being a part of my development journey!"
+</h4>
+
 <p align="left">
 </p>
 
