@@ -4,7 +4,10 @@
 - 🔭 I’m currently working on **development & education**
 
 <h4>
-"👋 Welcome to my GitHub haven! 🚀 Here, you'll find the fruits of my passion for programming and software creation. 💻✨ Explore my projects and uncover the world of code I've woven with love and dedication. 🧶💙 Feel free to collaborate, learn, and share knowledge because the magic of the community is what makes GitHub special! 🌟 Together, we can build a bright technological future. ✨🤝 Thanks for visiting and being a part of my development journey!"
+"👋 Welcome to my GitHub haven! 🚀 Here, you'll find the fruits of my passion for programming and software creation. 💻✨ Explore my projects and uncover the world of code I've woven with love and dedication. 🧶💙 Feel free to collaborate, learn, and share knowledge because the magic of the community is what makes GitHub special! 🌟 Together, we can build a bright technological future. 
+<br>
+🤝 Thanks for visiting and being a part of my development journey!"✨
+
 </h4>
 
 <p align="left">
