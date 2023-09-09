@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos J. Boyatjian</h1>
 <h3 align="center">A passionate Python developer from Argentina</h3>
 
-- 🔭 I’m currently working on **eduucation**
+- 🔭 I’m currently working on **education and development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
