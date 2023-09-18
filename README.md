@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Carlos J. Boyatjian</h1>
-<h3 align="center">A passionate Python developer from Argentina</h3>
+<h1 align="center">Hi 👋, I'm Carlos Boyatjian</h1>
+<h3 align="center">A passionate Python & C++ developer from Argentina</h3>
 
 - 🔭 I’m currently working on **development & education**
 
